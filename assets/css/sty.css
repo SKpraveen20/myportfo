@@ -1,0 +1,396 @@
+
+body {
+ font-family: 'Damion', cursive;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  height: 100%;
+  width: full;
+}
+li a{
+   color: #20B2AA;
+ }
+
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 295px;
+  background-color:#181515;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+#name{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 3.5vw;
+  padding:20px 0px 5px;
+  margin-left: 10%;
+  width:80%;
+  color:#20B2AA;
+}
+li.hom{
+  list-style: none;
+  border: 2px solid #C63E12;;
+  color:#20B2AA;
+  width:80%;
+  font-size: 1.9vw;
+  text-align: center;
+  padding:20px 0px 5px;
+  margin:0px 20px 0px;
+
+}
+.navbar-light .navbar-nav a.nav-item {
+     color: #20B2AA;
+}
+#name1{
+  text-align: center;
+  font-weight: bolder;
+  margin-left: 10%;
+  width:80%;
+  color:#20B2AA;
+}
+ #name1:hover{
+     background: linear-gradient(to bottom right,red,blue);
+     font-size: 4vw;
+     color:#FA9C9C;
+}
+.hom1{
+  color:white;
+  text-align: center;
+  padding:20px 0px 5px;
+  padding-left: 30px;
+  margin:0px 20px 0px;
+
+}
+ul.m{
+  padding: 0px;
+}
+a.nam{
+  text-decoration: none;
+  color:#20B2AA;
+}
+
+a.nam:hover{
+  text-decoration: none;
+  background: linear-gradient(to bottom right,red,blue);
+  font-size: 4vw;
+  font-weight: bolder;
+  color:#FA9C9C;
+}
+
+a.mall:hover{
+  text-decoration: none;
+}
+a#ho:hover{
+  background:linear-gradient(to bottom right,#BAE8E7,#A05AE3);
+  font-weight: bolder;
+  color:#8A2BE2;
+  font-size: 2.5vw;
+
+}
+a#ab1:hover{
+  background:linear-gradient(to bottom right,#BAE8E7,#DBB31D);
+  font-weight: bolder;
+  color:orange;
+  font-size: 2.5vw;
+}
+a#sk:hover{
+  background:linear-gradient(to bottom right,#BAE8E7,#AC5535);
+  font-weight: bolder;
+
+  color:coral;
+  font-size: 2.5vw;
+}
+a#pro:hover{
+  background:linear-gradient(to bottom right,#BAE8E7,#A28450);
+  font-weight: bolder;
+  color:#BF8A2E;
+  font-size: 2.5vw;
+}
+
+
+a#cer:hover{
+  background:linear-gradient(to bottom right,#BAE8E7,#E9AB9A);
+  font-weight: bolder;
+  color:#E9967A;
+  font-size: 2vw;
+}
+a#con:hover{
+  background:linear-gradient(to bottom right,#BAE8E7,#414197);
+  font-weight: bolder;
+  color: #191970;
+  font-size: 2.5vw;
+}
+
+.m{
+  padding:0px;
+}
+.menu{
+  margin-top:40px;
+}
+
+
+/* this is for the second div */
+
+.second {
+    margin-left:295px;
+     background-color:#070101;/*#F0FFF0; */
+    overflow:auto;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+img{
+  width:auto;
+  height:500px;
+}
+
+.ex4{
+  padding: 0px;
+}
+
+
+.c{
+  text-align: center;
+  }
+
+  .hi{
+    color:white;
+    font-size: 32px;
+    font-weight: bold;
+  }
+
+  div.col-lg-6.suma1{
+     padding:0px;
+     text-align: left;
+     padding-left: 28%;"
+  }
+  div.col-lg-6.suma2{
+     padding:0px;
+     text-align: left;
+     padding-left: 10px;"
+  }
+
+  .spansk{
+    padding-left:20px;
+    padding-top: 15px;
+  }
+
+
+
+  .content{
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 7px;
+    padding-left: 10px;
+    text-align: center;
+  }
+
+
+  .hr1{
+    border-top:8px dotted orange;
+    width:70%;
+    margin-bottom: 6px;
+  }
+  .hr2{
+    border-top:8px dotted coral;
+    width:70%;
+    margin-bottom: 6px;
+
+  }
+  .hr3{
+    border-top:8px dotted #BF8A2E;
+    width:70%;
+    margin-bottom: 6px;
+
+  }
+  .hr4{
+    border-top:8px dotted #E9967A;
+    width:70%;
+    margin-bottom: 6px;
+
+  }
+
+  .hr5{
+    border-top:8px dotted #191970;
+    width:70%;
+    margin-bottom: 6px;
+
+  }
+
+
+  #a{
+    background-color: orange;
+    margin :0 auto;
+    color: white;
+    text-align: center;
+    width:20%;
+    padding: 5px 10px 15px;
+    font-weight: bolder;
+    font-size: 2vw;
+  }
+  #b{
+    background-color: coral;
+    color:white;
+    margin :0 auto;
+    text-align: center;
+    width:15%;
+    padding: 5px 10px 15px;
+    font-weight: bolder;
+    font-size: 2vw;
+  }
+
+  #c{
+    background-color:#BF8A2E ;
+    color:white;
+    margin :0 auto;
+    text-align: center;
+    width:20%;
+    padding: 5px 10px 15px;
+    font-weight: bolder;
+    font-size: 2vw;
+  }
+
+  #d{
+    background-color:#E9967A;
+    color:white;
+    margin :0 auto;
+    text-align: center;
+    width:25%;
+    padding: 5px 10px 15px;
+    font-weight: bolder;
+    font-size: 2vw;
+  }
+
+  #e{
+    background-color:#191970;
+    color:white;
+    margin :0 auto;
+    text-align: center;
+    width:17%;
+    padding: 5px 10px 15px;
+    font-weight: bolder;
+    font-size: 2vw;
+  }
+
+  .myimg{
+  text-align: center;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-bottom:20px;
+  }
+
+  #myimg1{
+    width:auto;
+    height: auto;
+    padding-right: 30px;
+  }
+
+  .skimg{
+    text-align: center;
+    padding-bottom:20px;
+  }
+.ski{
+  width: auto;
+  height: auto;
+
+}
+.contact{
+  padding-top: 20px;
+}
+
+
+.newcon{
+  text-align: center;
+
+}
+
+.suma img {
+  height: 30px;
+  width: 30px;
+}
+#navigat{
+  visibility: hidden;
+  display: none;
+}
+.git:hover{
+  background: linear-gradient(red,orange);
+}
+.linkedin:hover{
+  background: linear-gradient(red,orange);
+}
+
+
+
+.swiper-container {
+  width: 100%;
+  height:450px;
+  padding-top: 15px;
+  padding-bottom: 50px;
+  background:#070101;
+}
+.swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    border-radius: 100%;
+    background: white;
+    opacity: .9;
+}
+
+.swiper-pagination-bullet-active {
+    opacity: 1;
+    background:#14AAD0;
+}
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 180px;
+  height: 180px;
+ background: #fff;
+}
+.ceri{
+width: 300px;
+height:300px;
+}
+.ceri1{
+  width: 200px;;
+  height:200px;
+}
+
+@media screen and (max-width: 810px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  #navigat{
+    visibility: visible;
+    display:block;
+
+  }
+  div.col-lg-6.ano{
+    text-align: left;
+    padding-left: 34%
+  }
+  div.col-lg-6.ano1{
+    padding-left:34%;
+  }
+  .sidebar{
+    visibility: hidden;
+    display: none;
+  }
+  div.second {margin-left: 0;}
+}
+
+
+@media screen and (max-width: 991px) and (min-width:812px) {
+  div.col-lg-6.ano1{
+    padding-left:28%;
+  }
+}
